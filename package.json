@@ -1,0 +1,23 @@
+{
+    "name": "react-boilerplate",
+    "version": "1.0.0",
+    "description": "Basic react boilerpalte\u001b[2~\u001b[2~\u001b[2~late",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/mrwrong09/react-boilerplate.git"
+    },
+    "keywords": [
+      "node",
+      "react"
+    ],
+    "author": "Prabhat Satpathi",
+    "license": "Apache-2.0",
+    "bugs": {
+      "url": "https://github.com/mrwrong09/react-boilerplate/issues"
+    },
+    "homepage": "https://github.com/mrwrong09/react-boilerplate#readme"
+  }
